@@ -1,0 +1,11 @@
+{
+    "media": [
+        {
+            "defName": "IMAGE_MENU_ICON",
+            "type": "png",
+            "file": "images/twostep_icon.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "VERSION"
+}
