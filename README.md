@@ -1,4 +1,4 @@
 twostep-msd
 ===========
 
-Time based one time pad for two factor authentication
+TOTP Pebble app for two factor authentication
